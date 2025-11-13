@@ -93,3 +93,4 @@ ECS Fargate provides serverless container orchestration. A cluster is created, a
 ## Outcome
 
 Once deployed successfully, the Flask application runs on ECS Fargate, accessible via a public IP. This project demonstrates practical DevOps skills including containerization, cloud container registry usage, serverless container orchestration, and deployment troubleshooting. 
+
